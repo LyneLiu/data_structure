@@ -1,2 +1,3 @@
 # data_structure
-data_structure practice
+This is my own data_structure practice.
+Just have fun!
